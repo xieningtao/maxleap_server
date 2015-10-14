@@ -1,0 +1,7 @@
+{
+    "applicationName": "", //MaxLeap应用名称
+    "applicationId": "", //Application ID
+    "applicationKey": "", //Master Key
+    "lang": "python", //开发语言
+    "version": "" //当前云代码项目版本号
+}
