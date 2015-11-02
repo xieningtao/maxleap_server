@@ -54,9 +54,3 @@ def helloNinja(request):
 
     #返回新的本体名称
     return Response(ninja_50.get('name'))
-
-
-#hack
-import ML
-ML.client.BASE_URL = "http://apiuat.leap.as/2.0"
-# ML.client.BASE_URL = "http://10.10.10.193:8080"
