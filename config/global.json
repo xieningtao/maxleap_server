@@ -1,7 +1,7 @@
 {
-    "applicationName": "", //MaxLeap应用名称
-    "applicationId": "", //Application ID
-    "applicationKey": "", //Master Key
-    "lang": "python", //开发语言
-    "version": "" //当前云代码项目版本号
+    "applicationName": "nybao",
+    "applicationId": "57f9edc887d4a7e337b8c231",
+    "applicationKey": "elhmazJfd29ZTFBhR0M3SmJ0R2N6UQ",
+    "lang": "python",
+    "version": "1.0.0"
 }
